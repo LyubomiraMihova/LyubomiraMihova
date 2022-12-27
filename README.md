@@ -1,4 +1,4 @@
-### Hi there! Nice to meet you! 👋
+## Hi there! Nice to meet you! 👋
 
 ## About me
 I am Lyubomira Velinova - Junior Python Developer. I graduated with a master's degree in civil engineering, but after that I found a passion in programming and since then I am learning Python.
@@ -19,3 +19,5 @@ You can click the Preview link to take a look at your changes.
 [![Lyubomira's github stats](https://github-readme-stats.vercel.app/api?username=LyubomiraMihova&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LyubomiraMihova)](https://github.com/anuraghazra/github-readme-stats)
+
+![<Badge Name>](https://img.shields.io/badge/<Badge Text>-<Background Color>?style=for-the-badge&logo=<Icon Name>&logoColor=<Logo Color>)
