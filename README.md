@@ -1,4 +1,7 @@
 ### Hi there, I’m Lyubomira Velinova 👋
+## About me
+I am Lyubomira Velinova - Junior Python Developer. I graduated with a master's degree in civil engineering, but after that I found a passion in programming and since then I am learning Python.
+
 - 👀 I’m interested in math, programming, books and sport;
 - 🌱 I’m currently learning programming with Python;
 - :zap: I’m addicted to learning, growing and getting better every day
